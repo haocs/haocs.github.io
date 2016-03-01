@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Manage life as a project?"
-date:   2016-02-12 11:50:00
+date:   2016-02-19 23:50:00
 categories: main
 tags :
      - life
