@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Latency numbers every programmer should know"
 date:   2016-04-09 23:50:00
 categories: main
