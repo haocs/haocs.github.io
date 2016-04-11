@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Manage life as a project?"
 date:   2016-02-19 23:50:00
 categories: main
