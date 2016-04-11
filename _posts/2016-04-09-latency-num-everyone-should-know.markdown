@@ -9,4 +9,6 @@ tags :
 
 {% gist haocs/c274a951ba98bf7858984ef9b8720bea %}
 
+
 [latency numbers every programmer should know](https://gist.github.com/haocs/c274a951ba98bf7858984ef9b8720bea)
+
