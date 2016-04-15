@@ -140,5 +140,5 @@ class Test(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 ```
-{% gist haocs/lru_cache.py %}
+{% gist haocs/a355a2c90edc3d3508df91c9b10c6263 %}
 [Implementation on Github](https://github.com/haocs/algorithm_practice/blob/master/libs/cache.py)
