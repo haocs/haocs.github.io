@@ -8,7 +8,7 @@ tags :
      - python
 ---
 
-{% haocs/lru_cache.py %}
+{% gist haocs/lru_cache.py %}
 
 
 [Implementation on Github](https://github.com/haocs/algorithm_practice/blob/master/libs/cache.py)
