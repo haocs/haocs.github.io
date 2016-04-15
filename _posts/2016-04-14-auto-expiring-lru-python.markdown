@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Auto-expiring LRU cache implementation in python"
-date:   2016-04-04 23:50:00
+date:   2016-04-14 23:50:00
 categories: main
 tags :
      - programming
