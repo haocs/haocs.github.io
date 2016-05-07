@@ -43,4 +43,18 @@ class Pipeline():
           res = self._request(req)
 
 ```
+
+### Create the same thing in JS?
+This is no long working in JS since most of its operations are async. What's the issue? you will not get the result/response util the callback. You cannot running every filter one by one you will need to start the second one after receive the first one's finish callback. 
+```javascript
+var one = function(resource, done) {
+     // do something
+     done(resource);
+}
+
+var two = function(resource, done) (
+}
+
+one(resouce, two);
+```
      
